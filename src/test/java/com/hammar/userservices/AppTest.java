@@ -1,4 +1,4 @@
-package com.hammar.userservices;
+tpackage com.hammar.userservices;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
